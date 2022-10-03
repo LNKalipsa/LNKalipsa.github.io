@@ -1,6 +1,6 @@
 <h1> Hello everyone !
 <hr/>
-<div size='20px'> My name is Hélène. Thank You for taking the time to view my GitHub Profile :smile: </div>
+<div size='16px'> My name is Hélène. Welcome on my GitHub Profile</div>
 
 <h2> About Me </h2>
 
